@@ -1,3 +1,4 @@
+# noinspection DuplicatedCode
 """Jefferson Peralva Machiqueira"""
 
 from model.grid import SantaClausGrid

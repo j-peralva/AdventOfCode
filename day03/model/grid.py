@@ -1,4 +1,6 @@
+# noinspection DuplicatedCode
 """Jefferson Peralva Machiqueira"""
+
 
 class SantaClausGrid:
     def __init__(self):
