@@ -8,7 +8,7 @@ from util.read_file import ReadFile
 class Main:
     @classmethod
     def run(cls):
-        data = list(ReadFile('data/day02.dat'))
+        data = list(ReadFile('data/day01.dat'))
         floor = Floor()
         for direction in data:
             if direction == ')':
